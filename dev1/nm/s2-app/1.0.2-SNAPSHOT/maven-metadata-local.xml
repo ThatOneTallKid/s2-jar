@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
-  <groupId>dev.nm</groupId>
+  <groupId>dev1.nm</groupId>
   <artifactId>s2-app</artifactId>
   <version>1.0.2-SNAPSHOT</version>
   <versioning>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
-    <lastUpdated>20220216060805</lastUpdated>
+    <lastUpdated>20220219062213</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
         <value>1.0.2-SNAPSHOT</value>
-        <updated>20220216060805</updated>
+        <updated>20220219062213</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>1.0.2-SNAPSHOT</value>
-        <updated>20220216060805</updated>
+        <updated>20220219062213</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
