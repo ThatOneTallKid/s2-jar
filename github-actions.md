@@ -209,8 +209,6 @@ name: Java CI with Maven
 on:
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
 
 jobs:
   build:
@@ -236,3 +234,5 @@ jobs:
         run: ls -a
 
 ```
+
+Now, every time we push to the main branch, we will run the `build` job.    
