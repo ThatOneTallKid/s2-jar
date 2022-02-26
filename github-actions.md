@@ -5,8 +5,8 @@ GitHub Actions makes it easy to automate all your software workflows, now with w
 ## Checklist
 
 - [x] Setup GitHub Actions
-- [ ] Setup local 
-- [ ] Build project
+- [x] Setup local 
+- [x] Build project
 - [ ] Publish Jar
 
 
