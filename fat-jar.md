@@ -97,3 +97,4 @@ mvn package
 
 Note: It can change the jar and cause regression it the software.
 
+> IMPORTANT: We are using the `maven-assembly-plugin` to package the fat jar.
